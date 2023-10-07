@@ -5,7 +5,7 @@
 ## Method 1: Running the app directly
 1. Download the files from the repository
 2. After navigating to current directory in command prompt, run the below command to install all dependencies <br>
-   "pip install -r requirements.txt"
+   /"pip install -r requirements.txt"
 3. Then run the below command to start the app <br>
    "python app.py"
 4. Once the app starts running copy the url mentioned or http://127.0.0.1:5000/ in your browser and press Enter.
